@@ -1,0 +1,11 @@
+Employee ID,Department,Title,Salary,Tenure,Performance Rating,Termination Date
+1001,Finance,Senior Accountant,85000,4.5,4,
+1002,Marketing,Marketing Manager,100000,3.2,3,
+1003,Engineering,Software Engineer,75000,2.1,2,2022-03-31
+1004,Finance,Accountant,60000,1.5,3,2023-02-28
+1005,Sales,Sales Representative,50000,0.8,2,2023-01-15
+1006,Marketing,Marketing Coordinator,45000,0.5,1,2022-09-30
+1007,Engineering,Senior Software Engineer,95000,5.2,5,
+1008,Finance,Financial Analyst,70000,2.8,3,
+1009,Engineering,Software Engineer,80000,3.4,4,
+1010,Sales,Sales Manager,120000,4.2,5,
